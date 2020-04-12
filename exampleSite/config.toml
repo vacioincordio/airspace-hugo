@@ -29,11 +29,11 @@ name = "Servicios"
 weight = 1
 [[menu.main]]
 URL = "project"
-name = "Project"
+name = "Servicios"
 weight = 1
 [[menu.main]]
 URL = "contact"
-name = "Contact"
+name = "Contacto"
 weight = 3
 [[menu.main]]
 URL = "blog"
