@@ -1,6 +1,6 @@
 ---
 title: Servicios
 description: this is meta description
-bg_image: ''
+bg_image: "/images/businessyoga.JPG"
 
 ---
