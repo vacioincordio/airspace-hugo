@@ -4,7 +4,6 @@ bg_image = "/images/wrapper-img.png"
 categories = [""]
 date = 2020-04-11T22:00:00Z
 description = "esto es una prueba"
-draft = true
 image = "/images/IMG_0206.JPG"
 tags = []
 title = "noticiooon"
