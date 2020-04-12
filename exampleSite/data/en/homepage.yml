@@ -2,7 +2,7 @@
 banner:
   enable: true
   bg_image: images/businessyoga.jpg
-  title: "<b>Despierta tu potencial con el yoga</b>"
+  title: Despierta tu potencial con el yoga
   content: ''
   button:
     enable: false
